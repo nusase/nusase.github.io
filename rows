@@ -1,0 +1,49 @@
+    <div class = 'span12'>
+      <div class="col-md-4 col-sm-6">
+        <p id = 'md' class='light'><br>SASE Study Room! <br><br></p><br>
+      </div>
+      <div class="col-md-4 col-sm-6" >
+        <p id = 'md' class='light'><br>CELEBR(ASIAN) <br><br></p><br>
+      </div>
+        <div class="col-md-4 col-sm-6" >
+        <p id = 'md' class='light'><br>COE Recognition Banquet <br><br></p><br>
+      </div>
+      <div class="col-md-4 col-sm-6">
+        <img src='img/studyroom.png'>
+        <br>
+      </div>
+      <div class="col-md-4 col-sm-6" >
+        <img src='img/celebrasian.png'>
+        <br>
+      </div>
+        <div class="col-md-4 col-sm-6" >
+        <img src='img/banquet.png'>
+      </div>
+      <div class="col-md-4 col-sm-6">
+        <p id = 'md' class='light'>WHAT: <br/><span class='mon'>Looking for a place to study? We gotchu! </span></p><br>
+      </div>
+      <div class="col-md-4 col-sm-6" >
+        <p id = 'md' class='light'>WHAT: <br/><span class='mon'>It's the biggest show of the year!! Celebrasian is a celebration of collaboration in the Asian American community through various performances. SASE will be premiering its new video, as well as its first dance!! Tickets are available on MYNEU! </span></p><br>
+      </div>
+        <div class="col-md-4 col-sm-6" >
+        <p id = 'md' class='light'>WHAT: <br/><span class='mon'>SASE will be attending COE's annual Recognition Banquet! Dress code is business casual. And did I mention free food??? <a href="https://docs.google.com/forms/d/17r8aylO_Aqqjbr8VD-oikscqUSp2OXiTlwnCYyWSgXU/viewform?c=0&w=1" style = 'color: dodgerblue'>RSVP HERE </a></span></p><br>
+      </div>
+<div class="col-md-4 col-sm-6">
+        <p id = 'md' class='light'>WHEN: <br/><span class='mon'>Friday, Feb 26th, 11:00AM-4:00 PM</span></p><br>
+      </div>
+      <div class="col-md-4 col-sm-6" >
+        <p id = 'md' class='light'>WHEN: <br/><span class='mon'>Saturday 02/27, 3:00 PM </span></p><br>
+      </div>
+        <div class="col-md-4 col-sm-6" >
+        <p id = 'md' class='light'><p id = 'md' class='light'>WHEN: <br/><span class='mon'>Saturday March 19th, 6:00-8:00PM </span></p><br>  
+        </div>
+      <div class="col-md-4 col-sm-6">
+        <p id = 'md' class='light'><p id = 'md' class='light'>WHERE: <br/><span class='mon'>Curry 334</span></p>
+      </div>
+      <div class="col-md-4 col-sm-6" >
+        WHERE: <br/><span class='mon'>Blackman Auditorium</span></p>
+
+      </div>
+        <div class="col-md-4 col-sm-6" >
+        <img src='img/banquet.png'><p id = 'md' class='light'>WHERE: <br/><span class='mon'>COE</span></p>
+      </div>
