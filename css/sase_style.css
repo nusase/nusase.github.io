@@ -66,7 +66,7 @@ p#md.light span.mon {
 
 body,html {
 height: 100%;
-background: url('../img/blue.png');
+background: url('../img/grad.png');
 background-size: cover;
 background-attachment: fixed;
 background-repeat: repeat-x;
